@@ -18,5 +18,5 @@
 --copy hello_w.go .\
 --cmd go run hello_w.go\
 -save the above file as "Dockerfile" with no extension. \
--In the command prompt, type $sudo docker build -t docker-hello-world:latest\ 
+-In the command prompt, type $sudo docker build -t docker-hello-world:latest \ 
 -Then, $sudo docker run docker-hello-world:latest will display the result of the hello world program\
