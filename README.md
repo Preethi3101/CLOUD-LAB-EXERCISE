@@ -1,7 +1,7 @@
 # CLOUD-LAB-EXERCISE
 
-Install a linux operating system(ubuntu 20.04) in virtual box
-Update the packages using "sudo apt update"
+Install a linux operating system(ubuntu 20.04) in virtual box\
+Update the packages using "sudo apt update"\
 Install net-tools and ssh
 Find the ip address using $ipconfig
 In virtualbox, Network-> Advanced-> Port Forwarding
